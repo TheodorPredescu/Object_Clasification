@@ -23,11 +23,11 @@ Each image has a corresponding `.txt` file containing bounding box coordinates.
 ## 🛠️ Installation & Usage  
 ```bash
 # Clone the repository
-git clone https://github.com/TheodorPredescu/tema2_TIA
-cd tema2_TIA
+git clone https://github.com/TheodorPredescu/Object_Clasification
+cd Object_Clasification
 
 # Install dependencies
 pip install numpy opencv-python scikit-learn
 
 # Run the classification script
-python script.py
+python object_clasification.py
