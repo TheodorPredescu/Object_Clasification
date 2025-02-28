@@ -23,8 +23,8 @@ Each image has a corresponding `.txt` file containing bounding box coordinates.
 ## 🛠️ Installation & Usage  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/TheodorPredescu/tema2_TIA
+cd tema2_TIA
 
 # Install dependencies
 pip install numpy opencv-python scikit-learn
